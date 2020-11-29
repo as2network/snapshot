@@ -4,6 +4,8 @@
 
 [Check Current Genesis Wallet Addresses](https://freight-trust.typeform.com/to/ihyTk4wE)
 
+Those who are on the list are good to go to be included , if you are NOT on the list of addrsses , enter it using the link, those who are included in the genesis list will get a small bonus of 500 EDI
+
 ## Genesis Requirements
 
 If not on this list of addresses you must [add your address]
