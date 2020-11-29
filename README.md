@@ -1,6 +1,6 @@
 ## Snapshot Staking
 
-[Register Ethereum Address])https://freight-trust.typeform.com/to/ihyTk4wE)
+[Register Ethereum Address](https://freight-trust.typeform.com/to/ihyTk4wE)
 
 [Check Current Genesis Wallet Addresses](https://freight-trust.typeform.com/to/ihyTk4wE)
 
