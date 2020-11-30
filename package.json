@@ -1,12 +1,19 @@
 {
-  "name": "snapshot_genesis",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "@as2network/snapshot",
+  "version": "0.1.1",
+  "description": "snapshot staking addresses",
+  "main": "genesis.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as2network/snapshot.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/as2network/snapshot/issues"
+  },
+  "homepage": "https://github.com/as2network/snapshot#readme"
 }
