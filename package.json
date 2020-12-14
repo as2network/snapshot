@@ -1,11 +1,11 @@
 {
   "name": "@as2network/snapshot",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "snapshot staking addresses",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "version": "auto-changelog -p && git add CHANGELOG.md"
+    "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "repository": {
     "type": "git",
