@@ -4,7 +4,8 @@
   "description": "snapshot staking addresses",
   "main": "index.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "repository": {
     "type": "git",
