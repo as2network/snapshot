@@ -6,7 +6,11 @@
 
 Those who are on the list are good to go to be included , if you are NOT on the list of addrsses , enter it using the link, those who are included in the genesis list will get a small bonus of 500 EDI
 
-## Genesis Requirements
+## How to check to see if you are on the list
+
+View the `snapshot.json` file
+
+## Staking Requirements
 
 If not on this list of addresses you must [add your address]
 
@@ -25,3 +29,9 @@ If not on this list of addresses you must [add your address]
 ## Questions
 
 Reach out to us via [telegram](https://t.me/freighttrust)
+
+
+## License
+
+Apache-2.0
+
