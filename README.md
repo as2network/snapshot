@@ -1,8 +1,8 @@
 ## Snapshot Staking
 
-[Register Ethereum Address](https://freight-trust.typeform.com/to/ihyTk4wE)
+[Register Ethereum Address](https://forms.gle/oNA9yhFuZoydFEVB6)
 
-[Check Current Genesis Wallet Addresses](https://freight-trust.typeform.com/to/ihyTk4wE)
+[Check Current Genesis Wallet Addresses](https://docs.google.com/spreadsheets/d/1EY5y3MNUS70a4ttMb6Gqm_Wyz30HwVJEAgZccm4ITpQ/edit?usp=sharing)
 
 Those who are on the list are good to go to be included , if you are NOT on the list of addrsses , enter it using the link, those who are included in the genesis list will get a small bonus of 500 EDI
 
