@@ -30,8 +30,6 @@ If not on this list of addresses you must [add your address]
 
 Reach out to us via [telegram](https://t.me/freighttrust)
 
-
 ## License
 
 Apache-2.0
-
