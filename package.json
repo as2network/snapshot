@@ -1,6 +1,6 @@
 {
   "name": "@as2network/snapshot",
-  "version": "0.2.3",
+  "version": "1.0.0",
   "description": "snapshot staking addresses",
   "main": "index.json",
   "scripts": {
@@ -23,6 +23,7 @@
     "csvtojson": "^2.0.10"
   },
   "devDependencies": {
-    "csv2md": "^1.1.0"
+    "csv2md": "^1.1.0",
+    "semantic-release": "^17.4.1"
   }
 }
